@@ -1,0 +1,5 @@
+a)System.out.println(“1”+1); = 11
+b)System.out.println(‘1’+1); = 50	
+c)System.out.println(“1”+1+1); = 111
+d)System.out.println(“1”+(1+1)); = 12
+e)System.out.println(‘1’+1+1); = 51
